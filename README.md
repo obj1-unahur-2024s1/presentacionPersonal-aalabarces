@@ -1,35 +1,14 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+Bienvenidos a la presentaci√≥n de 
+# Agust√≠n Alabarces Varela
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Agust√≠n es estudiante de la Tecnicatura en Programaci√≥n de Videojuegos en la Universidad Nacional de Hurlingham. Tambi√©n es saxofonista, compositor, dise√±ador de juegos y programador. Vive en la Ciudad de Buenos Aires y desde el 2024 trabaja en ADE Solutions creando experiencias interactivas.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+No es estudiante de la materia Progrmaci√≥n con Objetos 1 porque no consigui√≥ vacante, pero est√° haciendo su mejor esfuerzo como oyente para en un futuro dar un examen libre que enorgullezca a sus docentes (o al menos sacarse un 4).
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+<img src="https://drive.google.com/file/d/1y1aFTxgAu9IQgLE_KYi4GwnZauubq8pm/view?usp=sharing" style='width:500px'/>
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Pod√©s escuchar algunas de las bandas sonoras para videojuegos que compuso <a href='https://www.youtube.com/watch?v=N2alAElgwOg&list=PLBSTAw-qp1EX5QRS2a5wufFMdRhWZTtpV'>ac√°</a> o a su orquesta de salsa, la V√©rtigo L√≥pez, <a href='https://www.youtube.com/watch?v=p4RVv-KQDSg'>ac√°</a>. Pod√©s jugar a sus juegos <a href='https://aalabarces.github.io/'>ac√°</a>.
 
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Siempre est√° abierto a recibir <a href='mailto:aalabarces@gmail.com'>un mail</a> sobre cualquier tema.
